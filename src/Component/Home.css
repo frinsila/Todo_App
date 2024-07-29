@@ -1,0 +1,13 @@
+.head{
+    color: red;
+    text-align: center;
+    background-color: blueviolet;
+}
+.para{
+    text-align: center;
+    background-color: aqua;
+}
+.header{
+    height: 900px;
+    background-color: blue;
+}
